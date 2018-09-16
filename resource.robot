@@ -16,7 +16,7 @@ ${VALID UNREGISTERED PASSWORD}      A1A23123123
 
 ${VALID EMAIL}                      alexander.sterpu@gmail.com
 ${VALID USERNAME}                   alexander-sterpu
-${VALID PASSWORD}                   7895123
+${VALID PASSWORD}                   3215987
 ${VALID PHONE NUMBER}               79644044
 
 ${DEFAULT FIRST NAME}               Alexander
@@ -41,4 +41,4 @@ ${NEW1 PASSWORD}                    123123123
 ${NEW2 PASSWORD}                    456456456
 
 ${REGISTERED USERNAME}              admin
-${REGISTERED EMAIL}                 office@cityimobil.md
+${REGISTERED EMAIL}                 office@demo.md
